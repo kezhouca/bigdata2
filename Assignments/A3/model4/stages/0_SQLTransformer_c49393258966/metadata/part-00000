@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1579999976504,"sparkVersion":"2.4.4","uid":"SQLTransformer_c49393258966","paramMap":{"statement":"SELECT today.*, dayofyear(today.date) as doy FROM __THIS__ as today"},"defaultParamMap":{}}
